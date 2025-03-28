@@ -41,9 +41,6 @@ Experienced in developing ML models from scratch and fine-tuning pre-trained alg
 ✔ Transitioning from **Jupyter Notebooks** to **modular coding**  
 ✔ Deploying **Streamlit, Gradio**, or **APIs** for real-world AI applications  
 
----
-
-This version makes your profile more structured, professional, and engaging while keeping all your key skills and experience. Let me know if you'd like any further refinements! 🚀
 
 <!---
 QuratulAin20/QuratulAin20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
