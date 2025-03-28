@@ -1,35 +1,49 @@
-# 👋 Hi, I’m @QuratulAin
-- 👀 Certified Data scientist and ML Engineer especially in the field of NLP. Have an experience of develop model from scratch or train pre-build Ml algorithm.
-- Build differnt ML Systems like recommendation engine, alomality detection system, classifier or etc
-- Profound Knowledge of building LLM from Scratch or with different frameworks like LANG CHAIN and LANG GRAPH.
-- Experience in building AI agent using CrewAI.
-- Also have an expeience of working with AWS.
-- 🌱 I’m currently learning MLOPS
-- 💞️ I’m looking to collaborate on a platform that can use my skills and potential for betterment of this world. Along with love to solve challenging problems using data.
-- 📫 How to reach me EMAIL: qurat-zee@hotmail.com
 
-#### SKILLS
-**Programming**
-- Python
-- Pytorch
-- Scikit-learn
-- Lang-chain framework
-- CrewAI
-- AWS
-- Streamlit
-- Flask
-**Domain knowledge**
-  - Profound knowledge of statistics: Descriptive and inferential.
-  - Hand on experience of working with structure and unstructure data and how to preprocess it before training.
-  - Have a good knowledge of working with Supervised and Unsupervised ML problems.
-  - Can build Algorithm using pytorch.
-  - Along with apply Scikit-learn library.
-  - Experience of working with Deep learning Algorithms like Seq-Seq models.
-  - Profound knowledge of component of Lang-chain and CrewAI use to build LLM application, RAG or AI agents.
-  - Experience working with open-source and close-source Chatmodels and embedding models use to build GenAI applications.
-  - Also have an exerience of building GenAI application using local Llama model.
-  - Deep understanding of building LLM from scratch from data ingestion to production ready application.
-  - Proper understanding of working from jupyter notebook to modular coding and converting in streamlit, gradio application or API.
+# HI, I am Quratul Ain
+---
+
+👀 **Certified Data Scientist & Machine Learning Engineer (NLP Specialist)**  
+Experienced in developing ML models from scratch and fine-tuning pre-trained algorithms. Passionate about building AI-driven solutions that solve complex real-world challenges.  
+
+🚀 **Expertise & Experience**  
+- Developed **ML systems** such as recommendation engines, anomaly detection systems, and classifiers.  
+- **LLM Development:** Strong proficiency in building Large Language Models (LLMs) from scratch or using frameworks like **LangChain** and **LangGraph**.  
+- **AI Agents & Automation:** Experience in building **AI agents** using **CrewAI**.  
+- **Cloud & Deployment:** Hands-on experience with **AWS** for scalable ML solutions.  
+- **Application Development:** Proficient in deploying ML solutions using **Streamlit**, **Flask**, and **Gradio**.  
+
+🌱 **Currently Learning:** MLOps – optimizing ML workflows for scalable and production-ready AI solutions.  
+
+💡 **Looking to Collaborate On:** AI-driven projects that leverage my expertise to create impactful solutions for businesses and society. Passionate about solving **challenging problems** using data.  
+
+📫 **Get in Touch:**  
+📧 Email: qurat-zee@hotmail.com  
+
+---
+
+### **Technical Skills**  
+#### **Programming & Frameworks:**  
+✔ Python | PyTorch | Scikit-learn | LangChain | CrewAI | AWS | Streamlit | Flask  
+
+#### **Machine Learning & Deep Learning:**  
+✔ Supervised & Unsupervised Learning  
+✔ Seq2Seq Models & NLP Pipelines  
+✔ Anomaly Detection & Recommender Systems  
+✔ Structured & Unstructured Data Preprocessing  
+
+#### **LLM & GenAI Development:**  
+✔ Building **LLMs from Scratch** (Data Ingestion → Training → Production)  
+✔ **Retrieval-Augmented Generation (RAG)** for knowledge-based AI applications  
+✔ Open-source & closed-source **chat models** & **embedding models**  
+✔ Fine-tuning **Llama models** for **GenAI applications**  
+
+#### **End-to-End AI Application Development:**  
+✔ Transitioning from **Jupyter Notebooks** to **modular coding**  
+✔ Deploying **Streamlit, Gradio**, or **APIs** for real-world AI applications  
+
+---
+
+This version makes your profile more structured, professional, and engaging while keeping all your key skills and experience. Let me know if you'd like any further refinements! 🚀
 
 <!---
 QuratulAin20/QuratulAin20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
