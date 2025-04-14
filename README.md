@@ -42,7 +42,7 @@ Experienced in developing ML models from scratch and fine-tuning pre-trained alg
 ✔ Deploying **Streamlit** or **APIs** for real-world AI applications  
 
 
-🌟 ### **PROJECT**
+ ### **PROJECT**
 
 🍏 **Nutrition-Assisstant**
 [View Project](https://github.com/QuratulAin20/Nutrition-Assisstant)
