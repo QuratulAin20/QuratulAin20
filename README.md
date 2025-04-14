@@ -8,9 +8,9 @@ Experienced in developing ML models from scratch and fine-tuning pre-trained alg
 🚀 **Expertise & Experience**  
 - Developed **ML systems** such as recommendation engines, anomaly detection systems, and classifiers.  
 - **LLM Development:** Strong proficiency in building Large Language Models (LLMs) from scratch or using frameworks like **LangChain** and **LangGraph**.  
-- **AI Agents & Automation:** Experience in building **AI agents** using **CrewAI**.  
+- **AI Agents & Automation:** Experience in building **AI agents** using **CrewAI** and **Langgraph**  
 - **Cloud & Deployment:** Hands-on experience with **AWS** for scalable ML solutions.  
-- **Application Development:** Proficient in deploying ML solutions using **Streamlit**, **Flask**, and **Gradio**.  
+- **Application Development:** Proficient in deploying ML solutions using **Streamlit**, **Flask**.  
 
 🌱 **Currently Learning:** MLOps – optimizing ML workflows for scalable and production-ready AI solutions.  
 
@@ -39,7 +39,32 @@ Experienced in developing ML models from scratch and fine-tuning pre-trained alg
 
 #### **End-to-End AI Application Development:**  
 ✔ Transitioning from **Jupyter Notebooks** to **modular coding**  
-✔ Deploying **Streamlit, Gradio**, or **APIs** for real-world AI applications  
+✔ Deploying **Streamlit** or **APIs** for real-world AI applications  
+
+
+### **PROJECT**
+
+**Nutrition-Assisstant**
+[View Project](https://github.com/QuratulAin20/Nutrition-Assisstant)
+
+---------------------------------------------------------------------
+
+**AI-Powered Hybrid Search Chatbot**
+[View Project](https://github.com/QuratulAin20/AI-chatbot)
+
+---------------------------------------------------------------------
+
+**Temperature Prediction with LSTM**
+[View Project](https://github.com/QuratulAin20/Time-Series-LSTM-/tree/main)
+
+-------------------------------------------------------------------------
+
+**De-noising CT-SCAN-IMAGE**
+[View Project](https://github.com/QuratulAin20/CT-SCAN)
+
+-------------------------------------------------------------------------
+**Spam and Ham Classifier**
+[View Project](https://github.com/QuratulAin20/Spam-Ham-Classifier)
 
 
 <!---
