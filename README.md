@@ -7,6 +7,7 @@ Experienced in developing ML models from scratch and fine-tuning pre-trained alg
 
 **Education**
 BSC statistics
+
 **Certification**
 •	Generative AI course with Langchain and Hugging Face (completed) from Udemy
 •	Data Science ML DL NLP boot camp from Udemy
