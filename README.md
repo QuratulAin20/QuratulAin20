@@ -5,6 +5,14 @@
 👀 **Certified Data Scientist & Machine Learning Engineer (NLP Specialist)**  
 Experienced in developing ML models from scratch and fine-tuning pre-trained algorithms. Passionate about building AI-driven solutions that solve complex real-world challenges.  
 
+**Education**
+BSC statistics
+**Certification**
+•	Generative AI course with Langchain and Hugging Face (completed) from Udemy
+•	Data Science ML DL NLP boot camp from Udemy
+•	MLOPS in progress from Udemy
+
+
 🚀 **Expertise & Experience**  
 - Developed **ML systems** such as recommendation engines, anomaly detection systems, and classifiers.  
 - **LLM Development:** Strong proficiency in building Large Language Models (LLMs) from scratch or using frameworks like **LangChain** and **LangGraph**.  
