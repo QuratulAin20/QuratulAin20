@@ -55,6 +55,11 @@ BSC statistics
 
 
  ### **PROJECT**
+ **Text-to-Image Generation using Stable Diffusion Web APP**
+ 
+[View Project](https://github.com/QuratulAin20/internship)
+
+-------------------------------------------------------------------
 
 🍏 **Nutrition-Assisstant**
 [View Project](https://github.com/QuratulAin20/Nutrition-Assisstant)
