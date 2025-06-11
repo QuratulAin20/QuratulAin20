@@ -8,6 +8,10 @@ Experienced in developing ML models from scratch and fine-tuning pre-trained alg
 **Education**
 BSC statistics
 
+**Internship**
+ 
+ Recently completed my 25 days internship in Generative AI at Guftugu Publication supervised by SkilledScore
+
 **Certification**
 
 •	Generative AI course with Langchain and Hugging Face (completed) from Udemy
@@ -47,24 +51,36 @@ BSC statistics
 ✔ Building **LLMs from Scratch** (Data Ingestion → Training → Production)  
 ✔ **Retrieval-Augmented Generation (RAG)** for knowledge-based AI applications  
 ✔ Open-source & closed-source **chat models** & **embedding models**  
-✔ Fine-tuning **Llama models** for **GenAI applications**  
+✔ Fine-tuning **GPT models** for **GenAI applications**  
 
 #### **End-to-End AI Application Development:**  
 ✔ Transitioning from **Jupyter Notebooks** to **modular coding**  
-✔ Deploying **Streamlit** or **APIs** for real-world AI applications  
+✔ Deploying for real-world AI applications  
 
 
  ### **PROJECT**
-**MultiTurn ChatBot with Conversational History**
 
+ 
+**AI Cover letter generator from fro specific job description**
+
+[View Project](https://github.com/QuratulAin20/internship/tree/main/AI_cover_letter_generator)
+
+-----------------------------------------------------------------------------------------------
+
+ 
+**Fine-tune GPT2 on legal documnets**
+[View Project](https://github.com/QuratulAin20/internship/tree/main/finetune_gpt_on_legal_docs)
+
+-------------------------------------------------------------------------------------------------
+
+**MultiTurn ChatBot with Conversational History**
 [View Project](https://github.com/QuratulAin20/internship/tree/main/multiturn_bot_with_history)
 
 ------------------------------------------------------------------------------------------------
 
  
- **Text-to-Image Generation using Stable Diffusion Web APP**
- 
-[View Project](https://github.com/QuratulAin20/internship)
+**Text-to-Image Generation using Stable Diffusion Web APP**
+[View Project](https://github.com/QuratulAin20/internship/tree/main/text-to-image-generation)
 
 -------------------------------------------------------------------
 
@@ -82,9 +98,6 @@ BSC statistics
 [View Project](https://github.com/QuratulAin20/Time-Series-LSTM-/tree/main)
 
 -------------------------------------------------------------------------
-
-🖼️**De-noising CT-SCAN-IMAGE**
-[View Project](https://github.com/QuratulAin20/CT-SCAN)
 
 -------------------------------------------------------------------------
 📧  **Spam and Ham Classifier**
