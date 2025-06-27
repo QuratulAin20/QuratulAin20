@@ -22,6 +22,7 @@ BSC statistics
 
 
 🚀 **Expertise & Experience**  
+- Experience of performing **MLOPS** using **ETL pipeline** 
 - Developed **ML systems** such as recommendation engines, anomaly detection systems, and classifiers.  
 - **LLM Development:** Strong proficiency in building Large Language Models (LLMs) from scratch or using frameworks like **LangChain** and **LangGraph**.  
 - **AI Agents & Automation:** Experience in building **AI agents** using **CrewAI** and **Langgraph**  
