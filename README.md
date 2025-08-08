@@ -2,61 +2,77 @@
 # HI, I am Quratul Ain
 ---
 
-👀 **Certified Data Scientist & Machine Learning Engineer (NLP Specialist)**  
-Experienced in developing ML models from scratch and fine-tuning pre-trained algorithms. Passionate about building AI-driven solutions that solve complex real-world challenges.  
+## **AI Engineer | NLP & Generative AI Specialist**
 
-**Education**
-BSC statistics
-
-**Internship**
- 
- Recently completed my 25 days internship in Generative AI at Guftugu Publication supervised by SkilledScore
-
-**Certification**
-
-•	Generative AI course with Langchain and Hugging Face (completed) from Udemy
-
-•	Data Science ML DL NLP boot camp from Udemy
-
-•	MLOPS in progress from Udemy
-
-
-🚀 **Expertise & Experience**  
-- Experience of performing **MLOPS** using **ETL pipeline** 
-- Developed **ML systems** such as recommendation engines, anomaly detection systems, and classifiers.  
-- **LLM Development:** Strong proficiency in building Large Language Models (LLMs) from scratch or using frameworks like **LangChain** and **LangGraph**.  
-- **AI Agents & Automation:** Experience in building **AI agents** using **CrewAI** and **Langgraph**  
-- **Cloud & Deployment:** Hands-on experience with **AWS** for scalable ML solutions.  
-- **Application Development:** Proficient in deploying ML solutions using **Streamlit**, **Flask**.  
-
-🌱 **Currently Learning:** MLOps – optimizing ML workflows for scalable and production-ready AI solutions.  
-
-💡 **Looking to Collaborate On:** AI-driven projects that leverage my expertise to create impactful solutions for businesses and society. Passionate about solving **challenging problems** using data.  
-
-📫 **Get in Touch:**  
-📧 Email: qurat-zee@hotmail.com  
+Certified AI Engineer with a strong background in **Natural Language Processing (NLP)**, **Generative AI**, and **end-to-end machine learning systems**. Skilled in building scalable AI solutions from **data ingestion** to **production deployment**. Passionate about transforming ideas into impactful, real-world AI applications.
 
 ---
 
-### **Technical Skills**  
-#### **Programming & Frameworks:**  
-✔ Python | PyTorch | Scikit-learn | LangChain | CrewAI | AWS | Streamlit | Flask  
+### **Education**
 
-#### **Machine Learning & Deep Learning:**  
-✔ Supervised & Unsupervised Learning  
-✔ Seq2Seq Models & NLP Pipelines  
-✔ Anomaly Detection & Recommender Systems  
-✔ Structured & Unstructured Data Preprocessing  
+**B.Sc. in Statistics**
 
-#### **LLM & GenAI Development:**  
-✔ Building **LLMs from Scratch** (Data Ingestion → Training → Production)  
-✔ **Retrieval-Augmented Generation (RAG)** for knowledge-based AI applications  
-✔ Open-source & closed-source **chat models** & **embedding models**  
-✔ Fine-tuning **GPT models** for **GenAI applications**  
+---
 
-#### **End-to-End AI Application Development:**  
-✔ Transitioning from **Jupyter Notebooks** to **modular coding**  
-✔ Deploying for real-world AI applications  
+### **Internship**
+
+**Generative AI Intern – Guftugu Publication** (Supervised by SkilledScore)
+
+* Completed a **25-day internship** focused on Generative AI model development, prompt engineering, and deployment.
+
+---
+
+### **Certifications**
+
+* **Complete Agentic AI Course** – Udemy
+* **Generative AI with LangChain & Hugging Face** – Udemy
+* **Data Science, ML, DL, NLP Bootcamp** – Udemy
+* **MLOps** *(In Progress)* – Udemy
+
+---
+
+### **Core Expertise**
+
+* **MLOps & ETL Pipelines** – Building scalable data and model pipelines for production.
+* **Machine Learning Systems** – Recommendation engines, anomaly detection, and classification models.
+* **LLM Development** – Designing and deploying Large Language Models using **LangChain** and **LangGraph**.
+* **AI Agents & Automation** – Building intelligent multi-agent workflows with **CrewAI** **AutoGen** **LangGraph**.
+* **Containerized Deployment** - Convert application into **Docker Container**.
+* **Backend Development** - **FastAPI** | **Flask**
+* **Cloud & Deployment** – Deploying ML solutions on **Clouds**.
+
+---
+
+### **Currently Learning**
+
+Advancing expertise in **MLOps** to optimize workflows for **scalable, production-grade AI solutions**.
+
+---
+
+### **Looking to Collaborate On**
+
+AI-driven projects in **NLP**, **LLM development**, and **AI automation** that solve high-impact business and societal challenges.
+
+---
+
+### **Technical Skills**
+
+**Programming & Frameworks:**
+Python | PyTorch | Scikit-learn | LangChain | LangGraph | CrewAI | AWS | Streamlit | Flask | Fast API | Docker
+
+**Machine Learning & Deep Learning:**
+Supervised & Unsupervised Learning | NLP Pipelines | Seq2Seq Models | Recommendation Systems | Anomaly Detection | Data Preprocessing (Structured & Unstructured)
+
+**LLM & Generative AI:**
+LLM Development from Scratch (Data → Training → Deployment) | RAG Pipelines | GPT Fine-Tuning | Embedding Models | Open-Source & Proprietary Chat Models | Prompt-Engineering
+
+**End-to-End AI App Development:**
+Transitioning from Prototypes to Modular, Production-Ready Code | Real-World Deployment & Scaling
+
+---
+📫 **Get in Touch:**  
+📧 Email: qurat-zee@hotmail.com  
+
 
 
  ### **PROJECT**
