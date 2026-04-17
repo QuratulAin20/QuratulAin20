@@ -101,17 +101,17 @@ Transitioning from Prototypes to Modular, Production-Ready Code | Real-World Dep
 
 -------------------------------------------------------------------
 
-🍏 **Nutrition-Assisstant**
+ **Nutrition-Assisstant**
 [View Project](https://github.com/QuratulAin20/Nutrition-Assisstant)
 
 ---------------------------------------------------------------------
 
-🤖 **AI-Powered Hybrid Search Chatbot**
+ **AI-Powered Hybrid Search Chatbot**
 [View Project](https://github.com/QuratulAin20/AI-chatbot)
 
 ---------------------------------------------------------------------
 
-🌡️ **Temperature Prediction with LSTM**
+ **Temperature Prediction with LSTM**
 [View Project](https://github.com/QuratulAin20/Time-Series-LSTM-/tree/main)
 
 -------------------------------------------------------------------------
