@@ -10,7 +10,7 @@ Certified AI Engineer with a strong background in **Natural Language Processing 
 
 ### **Education**
 
-**B.Sc. in Statistics**
+**B.Sc Statistics**
 
 ---
 
@@ -77,6 +77,10 @@ Transitioning from Prototypes to Modular, Production-Ready Code | Real-World Dep
 
  # **PROJECT**
 
+**AI Coding Agent(deep agent)**
+[View Project](https://github.com/QuratulAin20/Agents.git)
+
+----------------------------------------------------------------------------------------------
  
 **AI Cover letter generator from fro specific job description**
 
@@ -111,10 +115,7 @@ Transitioning from Prototypes to Modular, Production-Ready Code | Real-World Dep
 
 ---------------------------------------------------------------------
 
- **Temperature Prediction with LSTM**
-[View Project](https://github.com/QuratulAin20/Time-Series-LSTM-/tree/main)
 
--------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
 📧  **Spam and Ham Classifier**
