@@ -81,7 +81,10 @@ Transitioning from Prototypes to Modular, Production-Ready Code | Real-World Dep
 [View Project](https://github.com/QuratulAin20/Agents.git)
 
 ----------------------------------------------------------------------------------------------
- 
+**Deep Reasearch Agent using OPENAI SDK**
+[View Project](https://github.com/QuratulAin20/research_agent)
+
+-----------------------------------------------------------------------------------------------
 **AI Cover letter generator from fro specific job description**
 
 [View Project](https://github.com/QuratulAin20/internship/tree/main/AI_cover_letter_generator)
@@ -103,23 +106,17 @@ Transitioning from Prototypes to Modular, Production-Ready Code | Real-World Dep
 **Text-to-Image Generation using Stable Diffusion Web APP**
 [View Project](https://github.com/QuratulAin20/internship/tree/main/text-to-image-generation)
 
--------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 
  **Nutrition-Assisstant**
 [View Project](https://github.com/QuratulAin20/Nutrition-Assisstant)
 
----------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
  **AI-Powered Hybrid Search Chatbot**
 [View Project](https://github.com/QuratulAin20/AI-chatbot)
 
----------------------------------------------------------------------
-
-
-
--------------------------------------------------------------------------
-📧  **Spam and Ham Classifier**
-[View Project](https://github.com/QuratulAin20/Spam-Ham-Classifier)
+---------------------------------------------------------------------------------------------------
 
 
 <!---
