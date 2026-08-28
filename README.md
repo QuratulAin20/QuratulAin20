@@ -13,7 +13,9 @@ Certified AI Engineer with a strong background in **Natural Language Processing 
 **B.Sc Statistics**
 
 ---
-
+### **Remote work**
+- Build an ETL pipeline for AI Serach Engine
+  
 ### **Internship**
 
 **Generative AI Intern – Guftugu Publication** (Supervised by SkilledScore)
