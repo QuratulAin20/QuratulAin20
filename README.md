@@ -27,6 +27,7 @@ Certified AI Engineer with a strong background in **Natural Language Processing 
 * **Complete Agentic AI Course** – Udemy
 * **Generative AI with LangChain & Hugging Face** – Udemy
 * **Data Science, ML, DL, NLP Bootcamp** – Udemy
+* **AI ETHICS by UNESCO & LG** - Coursera
 * **MLOps** *(In Progress)* – Udemy
 
 ---
@@ -77,6 +78,11 @@ Transitioning from Prototypes to Modular, Production-Ready Code | Real-World Dep
 
  # **PROJECT**
 
+**Multi-channel-conversational-AI**
+[View Project](https://github.com/QuratulAin20/Multi-channel-conversational-AI)
+
+--------------------------------------------------------------------------------------------
+
 **AI Coding Agent(deep agent)**
 [View Project](https://github.com/QuratulAin20/Agents.git)
 
@@ -105,11 +111,6 @@ Transitioning from Prototypes to Modular, Production-Ready Code | Real-World Dep
  
 **Text-to-Image Generation using Stable Diffusion Web APP**
 [View Project](https://github.com/QuratulAin20/internship/tree/main/text-to-image-generation)
-
--------------------------------------------------------------------------------------------------
-
- **Nutrition-Assisstant**
-[View Project](https://github.com/QuratulAin20/Nutrition-Assisstant)
 
 ---------------------------------------------------------------------------------------------------
 
