@@ -84,6 +84,10 @@ Transitioning from Prototypes to Modular, Production-Ready Code | Real-World Dep
 [View Project](https://github.com/QuratulAin20/Multi-channel-conversational-AI)
 
 --------------------------------------------------------------------------------------------
+**Omani-Mental Health AI Voice Bot**
+[View Project](https://github.com/QuratulAin20/Mental_Health_chatbot)
+
+---------------------------------------------------------------------------------------------
 
 **AI Coding Agent(deep agent)**
 [View Project](https://github.com/QuratulAin20/Agents.git)
